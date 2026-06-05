@@ -1,0 +1,877 @@
+{
+  "link" : 
+  {
+    "self" : "https://opale.imcce.fr/api/v1/phenomena/eclipses/10/gregorian,2026-08-12"
+  },
+  "request" : 
+  {
+    "calendar" : "gregorian",
+    "date" : "2026-08-12",
+    "ephemerids" : 
+    [
+      "INPOP19A"
+    ],
+    "frame" : "TrueOfDate",
+    "nbd" : 1,
+    "observer" : 399,
+    "tag" : "eclipses_default",
+    "timescale" : "UTC"
+  },
+  "response" : 
+  {
+    "calendar" : "gregorian",
+    "data" : 
+    [
+      {
+        "calendarDate" : "2026-08-12",
+        "duration" : 
+        {
+          "penumbral" : "04:23:43.5",
+          "umbral" : "01:36:09.0"
+        },
+        "events" : 
+        {
+          "C1" : 
+          {
+            "Moon" : 
+            {
+              "DEC" : 14.808490000000001,
+              "RA" : 9.4944600000000001,
+              "azimuth" : 6.9753299999999996,
+              "elevation" : -0.0,
+              "parallax" : 0.99614000000000003,
+              "radius" : 0.27148
+            },
+            "Sun" : 
+            {
+              "DEC" : 14.808490000000001,
+              "RA" : 9.4944600000000001,
+              "azimuth" : 6.9753299999999996,
+              "elevation" : -0.0,
+              "parallax" : 0.0024099999999999998,
+              "radius" : 0.26296000000000003
+            },
+            "UT1-TT" : -69.126999999999995,
+            "date" : "2026-08-12T17:00:07",
+            "location" : 
+            {
+              "geometry" : 
+              {
+                "coordinates" : 
+                [
+                  113.44140176924711,
+                  75.078534446428549,
+                  0.0
+                ],
+                "type" : "Point"
+              },
+              "properties" : 
+              {
+                "coordinatesDMS" : 
+                [
+                  "113:26:29.0",
+                  "75:04:42.7",
+                  "0.0"
+                ]
+              },
+              "type" : "Feature"
+            },
+            "p" : null,
+            "zenith" : null
+          },
+          "C2" : 
+          {
+            "Moon" : 
+            {
+              "DEC" : 14.78999,
+              "RA" : 9.4983500000000003,
+              "azimuth" : 289.08699999999999,
+              "elevation" : -0.0,
+              "parallax" : 0.99558999999999997,
+              "radius" : 0.27133000000000002
+            },
+            "Sun" : 
+            {
+              "DEC" : 14.78999,
+              "RA" : 9.4983500000000003,
+              "azimuth" : 289.08699999999999,
+              "elevation" : -0.0,
+              "parallax" : 0.0024099999999999998,
+              "radius" : 0.26296000000000003
+            },
+            "UT1-TT" : -69.126999999999995,
+            "date" : "2026-08-12T18:32:12",
+            "location" : 
+            {
+              "geometry" : 
+              {
+                "coordinates" : 
+                [
+                  5.401677868507436,
+                  38.679407452748464,
+                  0.0
+                ],
+                "type" : "Point"
+              },
+              "properties" : 
+              {
+                "coordinatesDMS" : 
+                [
+                  "5:24:06.0",
+                  "38:40:45.9",
+                  "0.0"
+                ]
+              },
+              "type" : "Feature"
+            },
+            "p" : null,
+            "zenith" : null
+          },
+          "P1" : 
+          {
+            "Moon" : 
+            {
+              "DEC" : 15.28809,
+              "RA" : 9.4721399999999996,
+              "azimuth" : 62.230969999999999,
+              "elevation" : 0.53590000000000004,
+              "parallax" : 0.99665000000000004,
+              "radius" : 0.27166000000000001
+            },
+            "Sun" : 
+            {
+              "DEC" : 14.82685,
+              "RA" : 9.4908000000000001,
+              "azimuth" : 62.229509999999998,
+              "elevation" : 0.0012999999999999999,
+              "parallax" : 0.0024099999999999998,
+              "radius" : 0.26295000000000002
+            },
+            "UT1-TT" : -69.126999999999995,
+            "date" : "2026-08-12T15:34:16",
+            "location" : 
+            {
+              "geometry" : 
+              {
+                "coordinates" : 
+                [
+                  -166.05754174399078,
+                  56.689248979016419,
+                  0.0
+                ],
+                "type" : "Point"
+              },
+              "properties" : 
+              {
+                "coordinatesDMS" : 
+                [
+                  "-166:03:27.2",
+                  "56:41:21.3",
+                  "0.0"
+                ]
+              },
+              "type" : "Feature"
+            },
+            "p" : null,
+            "zenith" : null
+          },
+          "P4" : 
+          {
+            "Moon" : 
+            {
+              "DEC" : 14.88133,
+              "RA" : 9.5381300000000007,
+              "azimuth" : 285.07880999999998,
+              "elevation" : 0.53549000000000002,
+              "parallax" : 0.99505999999999994,
+              "radius" : 0.27123000000000003
+            },
+            "Sun" : 
+            {
+              "DEC" : 14.773,
+              "RA" : 9.5020600000000002,
+              "azimuth" : 285.07949000000002,
+              "elevation" : 0.0012999999999999999,
+              "parallax" : 0.0024099999999999998,
+              "radius" : 0.26296000000000003
+            },
+            "UT1-TT" : -69.126999999999995,
+            "date" : "2026-08-12T19:57:59",
+            "location" : 
+            {
+              "geometry" : 
+              {
+                "coordinates" : 
+                [
+                  -25.189233657004706,
+                  11.445067984663684,
+                  0.0
+                ],
+                "type" : "Point"
+              },
+              "properties" : 
+              {
+                "coordinatesDMS" : 
+                [
+                  "-25:11:21.2",
+                  "11:26:42.2",
+                  "0.0"
+                ]
+              },
+              "type" : "Feature"
+            },
+            "p" : null,
+            "zenith" : null
+          },
+          "U1" : 
+          {
+            "Moon" : 
+            {
+              "DEC" : 14.81744,
+              "RA" : 9.4943500000000007,
+              "azimuth" : 10.62955,
+              "elevation" : 0.0085500000000000003,
+              "parallax" : 0.99616000000000005,
+              "radius" : 0.27148
+            },
+            "Sun" : 
+            {
+              "DEC" : 14.808920000000001,
+              "RA" : 9.4943799999999996,
+              "azimuth" : 10.62955,
+              "elevation" : 2.0000000000000002e-05,
+              "parallax" : 0.0024099999999999998,
+              "radius" : 0.26296000000000003
+            },
+            "UT1-TT" : -69.126999999999995,
+            "date" : "2026-08-12T16:58:04",
+            "location" : 
+            {
+              "geometry" : 
+              {
+                "coordinates" : 
+                [
+                  117.7376283629454,
+                  74.926469662633238,
+                  0.0
+                ],
+                "type" : "Point"
+              },
+              "properties" : 
+              {
+                "coordinatesDMS" : 
+                [
+                  "117:44:15.5",
+                  "74:55:35.3",
+                  "0.0"
+                ]
+              },
+              "type" : "Feature"
+            },
+            "p" : null,
+            "zenith" : null
+          },
+          "U2" : 
+          {
+            "Moon" : 
+            {
+              "DEC" : 14.79951,
+              "RA" : 9.4945599999999999,
+              "azimuth" : 3.0573700000000001,
+              "elevation" : -0.0085500000000000003,
+              "parallax" : 0.99612999999999996,
+              "radius" : 0.27146999999999999
+            },
+            "Sun" : 
+            {
+              "DEC" : 14.80804,
+              "RA" : 9.4945500000000003,
+              "azimuth" : 3.0573700000000001,
+              "elevation" : -2.0000000000000002e-05,
+              "parallax" : 0.0024099999999999998,
+              "radius" : 0.26296000000000003
+            },
+            "UT1-TT" : -69.126999999999995,
+            "date" : "2026-08-12T17:02:15",
+            "location" : 
+            {
+              "geometry" : 
+              {
+                "coordinates" : 
+                [
+                  108.85572264458341,
+                  75.170347810038109,
+                  0.0
+                ],
+                "type" : "Point"
+              },
+              "properties" : 
+              {
+                "coordinatesDMS" : 
+                [
+                  "108:51:20.6",
+                  "75:10:13.3",
+                  "0.0"
+                ]
+              },
+              "type" : "Feature"
+            },
+            "p" : null,
+            "zenith" : null
+          },
+          "U3" : 
+          {
+            "Moon" : 
+            {
+              "DEC" : 14.784890000000001,
+              "RA" : 9.4978300000000004,
+              "azimuth" : 289.36333999999999,
+              "elevation" : -0.0083999999999999995,
+              "parallax" : 0.99560000000000004,
+              "radius" : 0.27133000000000002
+            },
+            "Sun" : 
+            {
+              "DEC" : 14.7904,
+              "RA" : 9.4982600000000001,
+              "azimuth" : 289.36331999999999,
+              "elevation" : -2.0000000000000002e-05,
+              "parallax" : 0.0024099999999999998,
+              "radius" : 0.26296000000000003
+            },
+            "UT1-TT" : -69.126999999999995,
+            "date" : "2026-08-12T18:30:07",
+            "location" : 
+            {
+              "geometry" : 
+              {
+                "coordinates" : 
+                [
+                  6.3605916145045454,
+                  39.650195381317559,
+                  0.0
+                ],
+                "type" : "Point"
+              },
+              "properties" : 
+              {
+                "coordinatesDMS" : 
+                [
+                  "6:21:38.1",
+                  "39:39:00.7",
+                  "0.0"
+                ]
+              },
+              "type" : "Feature"
+            },
+            "p" : null,
+            "zenith" : null
+          },
+          "U4" : 
+          {
+            "Moon" : 
+            {
+              "DEC" : 14.794879999999999,
+              "RA" : 9.4988799999999998,
+              "azimuth" : 288.83710000000002,
+              "elevation" : 0.0083899999999999999,
+              "parallax" : 0.99556999999999995,
+              "radius" : 0.27133000000000002
+            },
+            "Sun" : 
+            {
+              "DEC" : 14.7896,
+              "RA" : 9.4984400000000004,
+              "azimuth" : 288.83713,
+              "elevation" : 2.0000000000000002e-05,
+              "parallax" : 0.0024099999999999998,
+              "radius" : 0.26296000000000003
+            },
+            "UT1-TT" : -69.126999999999995,
+            "date" : "2026-08-12T18:34:13",
+            "location" : 
+            {
+              "geometry" : 
+              {
+                "coordinates" : 
+                [
+                  4.4952747453785387,
+                  37.757836169611963,
+                  0.0
+                ],
+                "type" : "Point"
+              },
+              "properties" : 
+              {
+                "coordinatesDMS" : 
+                [
+                  "4:29:43.0",
+                  "37:45:28.2",
+                  "0.0"
+                ]
+              },
+              "type" : "Feature"
+            },
+            "p" : null,
+            "zenith" : null
+          },
+          "greatest" : 
+          {
+            "Moon" : 
+            {
+              "DEC" : 14.79927,
+              "RA" : 9.4963999999999995,
+              "azimuth" : 248.40867,
+              "elevation" : 25.757549999999998,
+              "parallax" : 0.99587000000000003,
+              "radius" : 0.27346999999999999
+            },
+            "Sun" : 
+            {
+              "DEC" : 14.79927,
+              "RA" : 9.4963999999999995,
+              "azimuth" : 248.40868,
+              "elevation" : 25.757549999999998,
+              "parallax" : 0.0024099999999999998,
+              "radius" : 0.26296000000000003
+            },
+            "UT1-TT" : -69.126999999999995,
+            "date" : "2026-08-12T17:46:00",
+            "location" : 
+            {
+              "geometry" : 
+              {
+                "coordinates" : 
+                [
+                  -25.228591391614366,
+                  65.195440606633071,
+                  0.0
+                ],
+                "type" : "Point"
+              },
+              "properties" : 
+              {
+                "coordinatesDMS" : 
+                [
+                  "-25:13:42.9",
+                  "65:11:43.6",
+                  "0.0"
+                ]
+              },
+              "type" : "Feature"
+            },
+            "p" : null,
+            "zenith" : null
+          }
+        },
+        "link" : 
+        {
+          "image" : "https://opale.imcce.fr/api/v1/phenomena/eclipses/10/gregorian,2026-08-12?format=image",
+          "self" : "https://opale.imcce.fr/api/v1/phenomena/eclipses/10/gregorian,2026-08-12",
+          "video" : "https://opale.imcce.fr/api/v1/phenomena/eclipses/10/gregorian,2026-08-12?format=video"
+        },
+        "magnitude" : 1.0399400000000001,
+        "obscuration" : null,
+        "physicalData" : 
+        {
+          "Earth" : 
+          {
+            "inverseFlattening" : 298.25722356300003,
+            "radius" : 6378.1369999999997
+          },
+          "Moon" : 
+          {
+            "radius" : 1738.0909999999999
+          },
+          "Sun" : 
+          {
+            "radius" : 695700.0
+          }
+        },
+        "type" : "CentralTotalEclipse",
+        "visibilityLines" : 
+        {
+          "features" : 
+          [
+            {
+              "geometry" : 
+              {
+                "coordinates" : 
+                [
+                  [
+                    [
+                      -8.746510072474976,
+                      44.932359159568087,
+                      0.0
+                    ],
+                    [
+                      -8.3727348571089255,
+                      44.687673667666104,
+                      0.0
+                    ],
+                    [
+                      -7.9837522431862684,
+                      44.438917401858411,
+                      0.0
+                    ],
+                    [
+                      -7.5779755674634668,
+                      44.185653179891595,
+                      0.0
+                    ],
+                    [
+                      -7.1535253904254992,
+                      43.927363857952152,
+                      0.0
+                    ],
+                    [
+                      -6.7081478641142054,
+                      43.663430077777058,
+                      0.0
+                    ],
+                    [
+                      -6.2391012688151015,
+                      43.393099350759798,
+                      0.0
+                    ],
+                    [
+                      -5.742994142372905,
+                      43.115441965109916,
+                      0.0
+                    ],
+                    [
+                      -5.2155470242329578,
+                      42.829286110312374,
+                      0.0
+                    ],
+                    [
+                      -4.6512285807573379,
+                      42.533118831314567,
+                      0.0
+                    ],
+                    [
+                      -4.0426742070155655,
+                      42.224927828701297,
+                      0.0
+                    ],
+                    [
+                      -3.3797033242144874,
+                      41.901934159694001,
+                      0.0
+                    ],
+                    [
+                      -3.0623059362456,
+                      41.751868538611504,
+                      0.0
+                    ],
+                    [
+                      -2.6475339927317791,
+                      41.560106776749052,
+                      0.0
+                    ],
+                    [
+                      -2.6433402984097691,
+                      41.55819268723593,
+                      0.0
+                    ],
+                    [
+                      -2.195827878516877,
+                      41.356745209594891,
+                      0.0
+                    ],
+                    [
+                      -1.8232100368104136,
+                      41.193191391129965,
+                      0.0
+                    ],
+                    [
+                      -1.7139498456525319,
+                      41.145941805127862,
+                      0.0
+                    ],
+                    [
+                      -1.1896011130964175,
+                      40.92357678746361,
+                      0.0
+                    ],
+                    [
+                      -0.86740011407201445,
+                      40.790482214372751,
+                      0.0
+                    ],
+                    [
+                      -0.61089251397660915,
+                      40.686416270644038,
+                      0.0
+                    ],
+                    [
+                      0.040909092029799018,
+                      40.429367266232894,
+                      0.0
+                    ],
+                    [
+                      0.29892024236968967,
+                      40.330488718140415,
+                      0.0
+                    ],
+                    [
+                      0.79862274755290086,
+                      40.143511572297804,
+                      0.0
+                    ],
+                    [
+                      1.7308390979558084,
+                      39.81021959825177,
+                      0.0
+                    ],
+                    [
+                      1.8939562949044175,
+                      39.753925783797293,
+                      0.0
+                    ],
+                    [
+                      3.0462193295307181,
+                      39.372847259744447,
+                      0.0
+                    ],
+                    [
+                      3.0462193295307181,
+                      39.372847259744447,
+                      0.0
+                    ],
+                    [
+                      3.0792937659542847,
+                      39.362328913915711,
+                      0.0
+                    ],
+                    [
+                      3.1128735269121983,
+                      39.351673405315196,
+                      0.0
+                    ],
+                    [
+                      3.1469816218433917,
+                      39.340874491297434,
+                      0.0
+                    ],
+                    [
+                      3.1816428666942271,
+                      39.329925438875321,
+                      0.0
+                    ],
+                    [
+                      3.2168840684441093,
+                      39.318818974899102,
+                      0.0
+                    ],
+                    [
+                      3.2527343041494321,
+                      39.30754721060169,
+                      0.0
+                    ],
+                    [
+                      3.2892251301903959,
+                      39.296101584572412,
+                      0.0
+                    ],
+                    [
+                      3.3263909299440475,
+                      39.284472768246459,
+                      0.0
+                    ],
+                    [
+                      3.3642693028505257,
+                      39.272650561056373,
+                      0.0
+                    ],
+                    [
+                      3.4029014519087428,
+                      39.260623784322974,
+                      0.0
+                    ],
+                    [
+                      3.442332709609865,
+                      39.248380139674794,
+                      0.0
+                    ],
+                    [
+                      3.4826131339021038,
+                      39.235906046430202,
+                      0.0
+                    ],
+                    [
+                      3.5237982868307056,
+                      39.223186431393401,
+                      0.0
+                    ],
+                    [
+                      3.5659499956457803,
+                      39.21020452094335,
+                      0.0
+                    ],
+                    [
+                      3.6091375187738892,
+                      39.196941526407933,
+                      0.0
+                    ],
+                    [
+                      3.6534387841630553,
+                      39.183376306914674,
+                      0.0
+                    ],
+                    [
+                      3.6989419926308975,
+                      39.169484934992091,
+                      0.0
+                    ],
+                    [
+                      3.7457476819221682,
+                      39.155240136831878,
+                      0.0
+                    ],
+                    [
+                      3.7939711903446796,
+                      39.140610623479816,
+                      0.0
+                    ],
+                    [
+                      3.8437459839797175,
+                      39.12556018886999,
+                      0.0
+                    ],
+                    [
+                      3.8952278777532285,
+                      39.110046564391176,
+                      0.0
+                    ],
+                    [
+                      3.9486006517278489,
+                      39.094019895725353,
+                      0.0
+                    ],
+                    [
+                      4.0040836083068507,
+                      39.077420692888097,
+                      0.0
+                    ],
+                    [
+                      4.0619420907890955,
+                      39.060176977243529,
+                      0.0
+                    ],
+                    [
+                      4.1225021359830816,
+                      39.042200306504412,
+                      0.0
+                    ],
+                    [
+                      4.1861720110323493,
+                      39.023379933294379,
+                      0.0
+                    ],
+                    [
+                      4.2534744664885196,
+                      39.003574056458667,
+                      0.0
+                    ],
+                    [
+                      4.3250975549907746,
+                      38.9825960370204,
+                      0.0
+                    ],
+                    [
+                      4.4019785149900486,
+                      38.960191644192264,
+                      0.0
+                    ],
+                    [
+                      4.4854521312528224,
+                      38.93599881452522,
+                      0.0
+                    ],
+                    [
+                      4.5775364961148499,
+                      38.909470140521329,
+                      0.0
+                    ],
+                    [
+                      4.6815538931154768,
+                      38.879704460648234,
+                      0.0
+                    ],
+                    [
+                      4.8037460390029105,
+                      38.845008739915336,
+                      0.0
+                    ],
+                    [
+                      4.9590176049303203,
+                      38.801340196935158,
+                      0.0
+                    ],
+                    [
+                      5.2182648256744883,
+                      38.729468966899908,
+                      0.0
+                    ],
+                    [
+                      5.401677868507436,
+                      38.679407452748464,
+                      0.0
+                    ]
+                  ]
+                ],
+                "type" : "MultiLineString"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+    "description" : 
+    {
+      "calendarDate" : "Day of the greatest event of the solar eclipse",
+      "duration.partial" : "Interval in HH:MM:SS between the beginning (P1) and the end (P4) of the partial phase",
+      "duration.total" : "Interval in HH:MM:SS between the beginning (U1) and the end (U4) of the total or annular or hybrid phase",
+      "events.(greatest|P1|U1|C1|U2|P2|P3|U3|C2|U4|P4).(Sun|Moon).DEC" : "Declination of the body at time of the event",
+      "events.(greatest|P1|U1|C1|U2|P2|P3|U3|C2|U4|P4).(Sun|Moon).RA" : "Right ascension of the body at time of the event",
+      "events.(greatest|P1|U1|C1|U2|P2|P3|U3|C2|U4|P4).(Sun|Moon).azimuth" : "Azimuth from the North of the body of the body at time of the event",
+      "events.(greatest|P1|U1|C1|U2|P2|P3|U3|C2|U4|P4).(Sun|Moon).elevation" : "Elevation above the horizon of the body at the time of the event (without refraction)",
+      "events.(greatest|P1|U1|C1|U2|P2|P3|U3|C2|U4|P4).(Sun|Moon).parallax" : "Equatorial horizontal parallax of the body at time of the event",
+      "events.(greatest|P1|U1|C1|U2|P2|P3|U3|C2|U4|P4).(Sun|Moon).radius" : "Apparent angular radius of the body at time of the event",
+      "events.(greatest|P1|U1|C1|U2|P2|P3|U3|C2|U4|P4).Moon.centerOfFigure.deltaDEC" : "Offset in declination of the vector 'center of mass' -> 'center of figure' of the body at time of the event",
+      "events.(greatest|P1|U1|C1|U2|P2|P3|U3|C2|U4|P4).Moon.centerOfFigure.deltaRA" : "Offset in Right ascension of the vector 'center of mass' -> 'center of figure' of the body at time of the event",
+      "events.(greatest|P1|U1|C1|U2|P2|P3|U3|C2|U4|P4).UT1-TT" : "Difference between UT1 and TT at time of the event, expressed in second",
+      "events.(greatest|P1|U1|C1|U2|P2|P3|U3|C2|U4|P4).date" : "Instant of the event",
+      "events.(greatest|P1|U1|C1|U2|P2|P3|U3|C2|U4|P4).location" : "Location on the Earth seeing the event",
+      "events.(greatest|P1|U1|C1|U2|P2|P3|U3|C2|U4|P4).p" : "Position angle of contact on the limb of the Moon measured eastwards from celestial north",
+      "events.(greatest|P1|U1|C1|U2|P2|P3|U3|C2|U4|P4).zenith" : "Position angle of contact on the limb of the Moon measured eastwards from the zenith",
+      "magnitude" : "Fraction of the linear diameter of the Sun covered by the Moon at the greatest event",
+      "obscuration" : "Percentage of the area of the apparent solar disk covered by the Moon at the greatest event",
+      "physicalData.(Sun|Moon|Earth).radius" : "Equatorial radius of the body",
+      "physicalData.Earth.inverseFlattening" : "Inverse of the flattening of the Earth's ellipsoid",
+      "type" : "Type of the solar eclipse",
+      "visibilityLines" : "Curves and limits of the eclipse",
+      "visibilityPaths" : "Paths of the eclipse"
+    },
+    "timescale" : "UTC",
+    "unit" : 
+    {
+      "duration.partial" : "HMS",
+      "duration.total" : "HMS",
+      "events.(greatest|P1|U1|C1|U2|P2|P3|U3|C2|U4|P4).(Sun|Moon).DEC" : "Deg180",
+      "events.(greatest|P1|U1|C1|U2|P2|P3|U3|C2|U4|P4).(Sun|Moon).RA" : "Hour24",
+      "events.(greatest|P1|U1|C1|U2|P2|P3|U3|C2|U4|P4).(Sun|Moon).azimuth" : "Deg360",
+      "events.(greatest|P1|U1|C1|U2|P2|P3|U3|C2|U4|P4).(Sun|Moon).elevation" : "Deg180",
+      "events.(greatest|P1|U1|C1|U2|P2|P3|U3|C2|U4|P4).(Sun|Moon).parallax" : "Deg360",
+      "events.(greatest|P1|U1|C1|U2|P2|P3|U3|C2|U4|P4).(Sun|Moon).radius" : "Deg360",
+      "events.(greatest|P1|U1|C1|U2|P2|P3|U3|C2|U4|P4).Moon.centerOfFigure.deltaDEC" : "Arcsec",
+      "events.(greatest|P1|U1|C1|U2|P2|P3|U3|C2|U4|P4).Moon.centerOfFigure.deltaRA" : "Arcsec",
+      "events.(greatest|P1|U1|C1|U2|P2|P3|U3|C2|U4|P4).p" : "Deg360",
+      "events.(greatest|P1|U1|C1|U2|P2|P3|U3|C2|U4|P4).zenith" : "Deg360",
+      "events.(greatest|P1|U1|U2|U3|U4|P2).UT1-TT" : "Second",
+      "physicalData.(Sun|Moon|Earth).radius" : "Km"
+    }
+
+}
